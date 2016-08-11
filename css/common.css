@@ -1,0 +1,143 @@
+	/* Enlaces */
+a{
+	text-decoration: none;
+}
+/* Background */
+.azulheader{
+	background-color: #E0F2F7;
+	height: 42px;
+}
+
+/* Header */
+.ultodos{
+	list-style-type: none;
+	float: right;
+	margin-right: 18%;
+}
+.iltodos{
+	display: inline-block;
+	color: #989898;
+	margin-top: 5%;
+	margin-bottom: 30%
+}
+.logofarolito{
+	margin-right: 90%;
+}
+	/*Colores*/
+
+.Gris{
+	color: #989898;
+	}  
+.Grisoscuro{
+	color: #4d4545;
+	}
+.Celeste{
+	color: #28c5e6;
+	} 
+.Anaranjado{
+	color: #ff6a49;
+	}  
+.Verde{
+	color: #77d248;
+	} 
+.Amarillo{
+	color: #ffc200;
+	} 
+	/*Tipo de letra*/
+*{
+	font-family: 'Lato', sans-serif;
+}
+	/*Tamaño de letra*/
+.font1{
+	font-size: 1em;
+}
+.font2{
+	font-size: 1.5em;
+}
+.font3{
+	font-size: 2em;
+}
+.font4{
+	font-size: 3em;
+}
+	/*Alinear*/
+.izq{
+	text-align: left;
+}
+.der{
+	text-align: right;
+}
+
+	/*Imagenes*/
+img{
+	display: block;
+	margin: auto;
+}
+	/*parrafos*/
+p{
+	text-align: center;
+}
+	/*Margenes*/
+.mt5{
+	margin-top: 5%;
+}	
+.mt10{
+	margin-top: 10%;
+}
+.mt25{
+	margin-top: 25%;
+}
+.mb5{
+	margin-bottom: 5%;
+}
+.mb10{
+	margin-bottom: 10%;
+}
+.pt-5{
+	padding-top: 5%;	
+}
+.pl5{
+	padding-left: 5%;
+}
+.pr5{
+	padding-right: 5%;
+}
+.pt-10{
+	padding-top: 1	0%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pb10{
+	padding-bottom: 20%;
+}
+.pd-0{
+	padding: 0%;
+}
+
+/*botones*/
+button{
+	display: block;
+	margin: auto;
+	padding: 2%;
+	border-radius: 20%;
+	cursor: pointer;
+}
+	/*Secciones*/
+section{
+	width: 100%;
+}	
+	/*Encabezados*/
+h1{
+	text-align: center;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	font-size: 2.5em;
+}
+h2{
+	text-align: center;
+	margin-bottom: 5%;
+}
+h3{
+	text-align: center;
+}
